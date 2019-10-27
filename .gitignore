@@ -7,6 +7,9 @@
 /bin
 /obj
 
+ConsoleApp1/bin
+ConsoleApp1/obj
+
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
